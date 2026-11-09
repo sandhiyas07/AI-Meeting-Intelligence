@@ -153,7 +153,7 @@ The main objective of AI Meeting Intelligence is to automate meeting documentati
 
 ## 👩‍💻 Developed By
 
-**Sri Nithya**
+**Sandhiya**
 
 AI Meeting Intelligence  
 Python | Streamlit | Google Gemini AI
